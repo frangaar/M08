@@ -1,11 +1,8 @@
-<<<<<<< HEAD
 sdfsdfsd  fsdfsdfsdf
 
 
 dfsdf
 sdfsdfsdsd
 fsdf
-=======
 Prueba PRUEBA df  
 Hola bebe, a que hora vas por el pan?  
->>>>>>> 2f05bde239a1e13ea899520e58c5ed1a1cdedaf8
